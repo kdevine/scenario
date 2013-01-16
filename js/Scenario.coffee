@@ -1,0 +1,3 @@
+Scenario = ->
+
+window.Scenario = Scenario

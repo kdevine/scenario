@@ -1,0 +1,3 @@
+CallListSettings = ->
+
+window.CallListSettings = CallListSettings

@@ -1,0 +1,3 @@
+Query = ->
+
+window.Query = Query
